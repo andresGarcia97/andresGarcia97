@@ -1,6 +1,6 @@
-# 👋 Hola, Mi nombre es Andrés García Atehortua
-### Y Soy un Estudiante de Ingenieria de sistemas, de la Universidad Catolica de Oriente que esta proximo a terminar mis estudios y empezar a ejercer oficialmente como ingeniero
-### Tambien me encuentro buscando practicas empresariales Actualmente
+# 👋 Hola, Mi nombre es Andrés García.
+### Y Soy un Estudiante de Ingenieria de sistemas, de la Universidad Catolica de Oriente, actualemente estoy cerca de terminar mis estudios y convertirme en un desarrollador de software junior oficialmente.
+### Tambien me encuentro buscando practicas empresariales Actualmente.
 
 ## Mis Habilidades
 
