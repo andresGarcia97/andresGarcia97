@@ -14,4 +14,4 @@
 
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </br>
-[@angarciate](https://twitter.com/angarciate) [angarciate](www.linkedin.com/in/angarciate)
+[@angarciate](https://twitter.com/angarciate) [angarciate](https://www.linkedin.com/in/angarciate/)
