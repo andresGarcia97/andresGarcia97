@@ -12,6 +12,8 @@
 
 ## Contacto
 
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) 
+   [@angarciate](https://twitter.com/angarciate)
 </br>
-[@angarciate](https://twitter.com/angarciate) [angarciate](https://www.linkedin.com/in/angarciate/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+   [angarciate](https://www.linkedin.com/in/angarciate/)
