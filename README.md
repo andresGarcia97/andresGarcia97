@@ -17,3 +17,6 @@
 </br>
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 [Andrés Garcia](https://www.linkedin.com/in/angarciate/)
+
+## Aclaración
+Algunos repositorios estan ocultos debido a su contenido sensible.
