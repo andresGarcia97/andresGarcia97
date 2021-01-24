@@ -1,8 +1,6 @@
 # 👋 Hola, Mi nombre es Andrés García.
 ### Y Soy un Estudiante de Ingenieria de sistemas, de la Universidad Catolica de Oriente, actualmente estoy cerca de terminar mis estudios y convertirme en un desarrollador de software oficialmente.
-```
-Tambien me encuentro buscando practicas empresariales Actualmente.
-```
+
 ## Mis Habilidades
 
 ![CCS](https://img.shields.io/badge/CSS-06aed5?&style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-fc440f?style=for-the-badge&logo=html5&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)</br>
