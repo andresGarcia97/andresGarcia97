@@ -1,5 +1,5 @@
 # 👋 Hola, Mi nombre es Andrés García.
-### Y Soy un Ingenierio de sistemas, de la Universidad Catolica de Oriente, actualmente soy en un desarrollador de software
+### Y Soy un Ingenierio de sistemas, de la Universidad Catolica de Oriente, actualmente me dedico a diseñar soluciones mediante el desarrollo de software
 
 ## Mis Conocimientos
 
